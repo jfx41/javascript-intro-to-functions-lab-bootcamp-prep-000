@@ -24,7 +24,7 @@ function sayHiToGrandma(hello) {
   return hello.toUpperCase()
 }
 
-hello = "I love you, Grandma"
+hello = "I love you, Grandma."
 function sayHiToGrandma(hello) {
   return hello
 }
